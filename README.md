@@ -26,8 +26,12 @@ I was born in 1998 and I used to be a statistics Undergradute student in BNU-HKB
 I am also one of the co-founders of [@UICHCC](https://uichcc.com) (UIC Computer Club) and Cyclododecene, a data analysis group;
 My final year project is about “Acceralte the Asymmetric Cryptosystem with GPU”, which is not statistics-related, as my supervisor is a professor in physics. His interest is in numerical computing & computer science.
 
-🔭 I’m currently working on Beijing Normal University - Hong Kong Baptist Universtiy Department of Statistics as a Research Assistant. As being a RA, I am now focusing on Financical Data Analsis (the data correlated to the finance market, not just finance data):
+🔭 I’m currently working on Beijing Normal University - Hong Kong Baptist Universtiy Department of Statistics as a Research Assistant. 
+As being a RA, I am now focusing on 
+  1. Financical Data Analsis (the data correlated to the finance market, not just finance data)
+  2. Maintenance of UIC-STAT first generation Computing Cluster (USBC); for more information, please check: [USBC-WIKI](https://yuque.com/usbc/usbc-wiki/) & [@Bayes-Cluster](https://github.com/Bayes-Cluster)
 
+Research Interest:
 * 🚩 NLP (Natural Language Processing)
 * 🚩 Bayesian Inference
 * 🚩 Path Integral
