@@ -24,7 +24,7 @@ My name is Terence Lau, AKA:
 
 I was born in 1998 and I used to be a statistics Undergradute student in BNU-HKBU UIC and I am now the Research Assistant in STAT department(BNU-HKBU UIC).
 I am also one of the co-founders of [@UICHCC](https://uichcc.com) (UIC Computer Club) and Cyclododecene, a data analysis group;
-My final year project is about “Acceralte the Asymmetric Crypto-system with GPU”, which is not statistics-related, as my supervisor is a professor in physics. His interest is in numerical computing & computer science.
+My final year project is about “Acceralte the Asymmetric Cryptosystem with GPU”, which is not statistics-related, as my supervisor is a professor in physics. His interest is in numerical computing & computer science.
 
 🔭 I’m currently working on Beijing Normal University - Hong Kong Baptist Universtiy Department of Statistics as a Research Assistant. As being a RA, I am now focusing on Financical Data Analsis (the data correlated to the finance market, not just finance data):
 
@@ -32,6 +32,8 @@ My final year project is about “Acceralte the Asymmetric Crypto-system with GP
 * 🚩 Bayesian Inference
 * 🚩 Path Integral
 * 🚩 Stochastic Process, Markov-related
+* 🚩 High Performance Computing (including CPU & GPU Parallel Algorithm)
+* 🚩 HPC Cluster Design
 
 - 📫 How to reach me: t_lau#uicstat.com
 
