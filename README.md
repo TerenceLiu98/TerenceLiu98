@@ -22,8 +22,8 @@ My name is Terence Lau, AKA:
 - ChunKit_Lau
 - JunJie LIU
 
-I got my Bacholer degree from BNU-HKBU UIC Statistics deparment and I am going to be a Mphil in Hong Kong Baptist Univeristy. <br>
-I am also one of the co-founders of [@UICHCC](https://uichcc.com) (UIC Homebrew Computer Club) and Cyclododecene, a data analysis group(no long exists);<br>
+Got my Bacholer degree from BNU-HKBU UIC Statistics deparment and going to be a Mphil student in Hong Kong Baptist Univeristy. <br>
+One of the co-founders of [@UICHCC](https://uichcc.com) (UIC Homebrew Computer Club) and Cyclododecene, a data analysis group(no long exists);<br>
 My final year project's Topic “Acceralte the Asymmetric Cryptosystem with GPU”, which is not statistics-related, as my supervisor is a professor in physics. He is interested in numerical computing acceleration and data-driven modelling.
 
 🔭 I’m currently working on Beijing Normal University - Hong Kong Baptist Universtiy Department of Statistics as a Research Assistant. 
