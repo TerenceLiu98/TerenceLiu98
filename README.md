@@ -32,9 +32,8 @@ As being a RA, I am now focusing on
   2. Maintenance of UIC-STAT first generation Computing Cluster (USBC); for more information, please check: [USBC-WIKI](https://yuque.com/usbc/usbc-wiki/) & [@Bayes-Cluster](https://github.com/Bayes-Cluster)
 
 Research Interest:
-* 🚩 NLP (Natural Language Processing)
-* 🚩 Bayesian Inference
-* 🚩 Path Integral
+* 🚩 Statistical Inference (Bayesian)
+* 🚩 Computational Statistics
 * 🚩 Stochastic Process, Markov-related
 * 🚩 High Performance Computing (including CPU & GPU Parallel Algorithm)
 * 🚩 HPC Cluster Design
