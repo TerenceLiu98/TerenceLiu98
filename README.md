@@ -22,9 +22,9 @@ My name is Terence Lau, AKA:
 - ChunKit_Lau
 - JunJie LIU
 
-I was born in 1998 and I used to be a statistics Undergradute student in BNU-HKBU UIC and I am now the Research Assistant in STAT department(BNU-HKBU UIC).
-I am also one of the co-founders of [@UICHCC](https://uichcc.com) (UIC Computer Club) and Cyclododecene, a data analysis group;
-My final year project is about “Acceralte the Asymmetric Cryptosystem with GPU”, which is not statistics-related, as my supervisor is a professor in physics. His interest is in numerical computing & computer science.
+I got my Bacholer degree from BNU-HKBU UIC Statistics deparment and I am going to be a Mphil in Hong Kong Baptist Univeristy.
+I am also one of the co-founders of [@UICHCC](https://uichcc.com) (UIC Homebrew Computer Club) and Cyclododecene, a data analysis group(no long exists);
+My final year project's Topic “Acceralte the Asymmetric Cryptosystem with GPU”, which is not statistics-related, as my supervisor is a professor in physics. He is interested in numerical computing acceleration and data-driven modelling.
 
 🔭 I’m currently working on Beijing Normal University - Hong Kong Baptist Universtiy Department of Statistics as a Research Assistant. 
 As being a RA, I am now focusing on 
@@ -40,6 +40,7 @@ Research Interest:
 * 🚩 HPC Cluster Design
 
 - 📫 How to reach me: t_lau#uicstat.com
+- 📃 For more information: check my [CV](https://terenceliu98.github.io/Docs/CV.pdf)
 
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TerenceLiu98)](https://github.com/anuraghazra/github-readme-stats) 
