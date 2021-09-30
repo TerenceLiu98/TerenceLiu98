@@ -31,8 +31,7 @@ Got my Bacholer degree from BNU-HKBU UIC Statistics deparment and going to be a 
 One of the co-founders of [@UICHCC](https://uichcc.com) (UIC Homebrew Computer Club) and Cyclododecene, a data analysis group(no long exists);<br>
 My final year project's Topic “Acceralte the Asymmetric Cryptosystem with GPU”, which is not statistics-related, as my supervisor is a professor in physics. He is interested in numerical computing acceleration and data-driven modelling.
 
-🔭 I’m currently working on Beijing Normal University - Hong Kong Baptist Universtiy Department of Statistics as a Research Assistant. 
-As being a RA, I am now focusing on 
+🔭  I am now focusing on 
   1. Financical Data Analsis (the data correlated to the finance market, not just finance data)
   2. Maintenance of UIC-STAT first generation Computing Cluster (USBC); for more information, please check: [USBC-WIKI](https://yuque.com/usbc/usbc-wiki/) & [@Bayes-Cluster](https://github.com/Bayes-Cluster)
 
