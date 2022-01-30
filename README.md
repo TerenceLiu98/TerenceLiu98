@@ -2,7 +2,7 @@
 
 
 ![test](https://img.shields.io/badge/dynamic/json?color=0084ff&label=Zhihu%7CGitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dsspai%26queryKey%3D%26source%3Dzhihu%26queryKey%3Dterencecklau%26source%3Dgithub%26queryKey%3DTerenceLiu98)
-![wakatime](https://wakatime.com/badge/user/25d03452-69b8-44af-8139-b294d1d17263.svg)
+[![wakatime](https://wakatime.com/badge/user/25d03452-69b8-44af-8139-b294d1d17263.svg)](https://wakatime.com/@25d03452-69b8-44af-8139-b294d1d17263)
 
 <!--
 **TerenceLiu98/TerenceLiu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
