@@ -29,7 +29,6 @@ I may use *TerenceCKLau* as well, only if Terence Liu/Lau is registered.
 
 Got my Bacholer degree from BNU-HKBU UIC Statistics deparment and going to be a Mphil student in Hong Kong Baptist Univeristy. <br>
 One of the co-founders of [@UICHCC](https://uichcc.com) (UIC Homebrew Computer Club) and Cyclododecene, a data analysis group(no long exists);<br>
-My final year project's Topic “Acceralte the Asymmetric Cryptosystem with GPU”, which is not statistics-related, as my supervisor is a professor in physics. He is interested in numerical computing acceleration and data-driven modelling.
 
 🔭  I am now focusing on 
   1. Financical Data Analsis (the data correlated to the finance market, not just finance data)
