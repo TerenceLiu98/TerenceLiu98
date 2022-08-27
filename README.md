@@ -22,7 +22,6 @@ My name is Terence Lau, AKA:
 
 - Terry Lau/Liu
 - Terence Liu
-- ChunKit_Lau
 - JunJie LIU
 
 I may use *TerenceCKLau* as well, only if Terence Liu/Lau is registered.
