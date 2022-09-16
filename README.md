@@ -38,7 +38,7 @@ Research Interest:
 * 🚩 Computational Statistics
 * 🚩 Stochastic Process, Markov-related
 * 🚩 High Performance Computing (including CPU & GPU Parallel Algorithm)
-* 🚩 HPC Cluster Design
+* 🚩 HPC Cluster/Hybrid Cloud maintenance
 
 - 📫 How to reach me: t_lau#uicstat.com
 - 📃 For more information: check my [CV](https://terenceliu98.github.io/Docs/CV.pdf)
