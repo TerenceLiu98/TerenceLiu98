@@ -18,31 +18,25 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-My name is Terence Lau, AKA:
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TerenceLiu98)](https://github.com/anuraghazra/github-readme-stats) 
 
-- Terry Lau/Liu
-- Terence Liu
-- JunJie LIU
+* 🎓 Ph.D. student in Poli Sci at TCD
+* 🎓 M.Phil. in Probab. & Stats. at HKBU (BNU-HKBU UIC)
+* 🎓 BSc(Hons) in Stats. at HKBU (BNU-HKBU UIC)
 
-I may use *TerenceCKLau* as well, only if Terence Liu/Lau is registered.
-
-Got my Bacholer degree from BNU-HKBU UIC Statistics deparment and going to be a Mphil student in Hong Kong Baptist Univeristy. <br>
-One of the co-founders of [@UICHCC](https://uichcc.com) (UIC Homebrew Computer Club) and Cyclododecene, a data analysis group(no long exists);<br>
+👨‍💻 One of the co-founders of [@UICHCC](https://uichcc.com) (UIC Homebrew Computer Club)
 
 🔭  I am now focusing on 
-  1. Financical Data Analsis (the data correlated to the finance market, not just finance data)
-  2. Maintenance of UIC-STAT first generation Computing Cluster (USBC); for more information, please check: [USBC-WIKI](https://yuque.com/usbc/usbc-wiki/) & [@Bayes-Cluster](https://github.com/Bayes-Cluster)
+  1. Financial Data Analysis
+  2. "Text-as-data" Analysis 
+  3. Maintenance of UIC-STAT Computing Cluster (USBC), for more info, please check:
+     * [USBC-WIKI](https://yuque.com/usbc/usbc-wiki/)
+     * [@Bayes-Cluster](https://github.com/Bayes-Cluster)
 
 Research Interest:
-* 🚩 Statistical Inference (Bayesian)
-* 🚩 Computational Statistics
-* 🚩 Stochastic Process, Markov-related
-* 🚩 High Performance Computing (including CPU & GPU Parallel Algorithm)
-* 🚩 HPC Cluster/Hybrid Cloud maintenance
+- 🚩 Statistical Inference (Bayesian)
+- 🚩 Stochastic Process, Markov-related
+- 🚩 Spatio-Temporal Model and Graph Reprensentation
 
-- 📫 How to reach me: t_lau#uicstat.com
-- 📃 For more information: check my [CV](https://terenceliu98.github.io/Docs/CV.pdf)
-
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TerenceLiu98)](https://github.com/anuraghazra/github-readme-stats) 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=TerenceLiu98)](https://github.com/anuraghazra/github-readme-stats)
+📫 How to reach me: me#cklau.cc
+📃 For more information: check my [CV](https://terenceliu98.github.io/Docs/CV.pdf)
