@@ -1,42 +1,15 @@
-### Hi there 👋
+### 🫡 README
 
+Currently, I am Junjie Liu, a PhD student at [Political Science](https://www.tcd.ie/Political_Science/) of [Trinity College Dublin](https://www.tcd.ie). 
 
-![test](https://img.shields.io/badge/dynamic/json?color=0084ff&label=Zhihu%7CGitHub&query=%24.data.totalSubs&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dsspai%26queryKey%3D%26source%3Dzhihu%26queryKey%3Dterencecklau%26source%3Dgithub%26queryKey%3DTerenceLiu98)
+🔭 Research Interest: Computational Social Science, Natural Language Processing, Graph-based Model
 
-<!--
-**TerenceLiu98/TerenceLiu98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🗂️ Our Research Group: [ForcastLab.org - PaCE: Patterns of Conflict Emergence](https://www.forecastlab.org)
 
-Here are some ideas to get you started:
+<hr>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://blog.cklau.cc" target="_blank"><img align="center" alt="Blog" src="https://img.shields.io/badge/My%20Blog: 特倫蘇的日與夜-E97451"/></a>
+<a href="mailto:" target="_blank"><img align="center" alt="Email" src="https://img.shields.io/badge/Mail Email: me [AT] cklau.cc-51C6E9"/></a>
+<a href="[https://blog.cklau.cc](https://terencelau-my.sharepoint.com/:b:/g/personal/terencelau_terencelau_onmicrosoft_com/ESH1R1joUSxOghfIGc1r9-UBL36zElJeNgYwazTSi7LNog?e=Ecmvdy)" target="_blank"><img align="center" alt="My Resumé" src="https://img.shields.io/badge/My%20Resumé PDF -C6E951"/></a>
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TerenceLiu98)](https://github.com/anuraghazra/github-readme-stats) 
-
-* 🎓 Ph.D. student in Poli Sci at TCD
-* 🎓 M.Phil. in Probab. & Stats. at HKBU (BNU-HKBU UIC)
-* 🎓 BSc(Hons) in Stats. at HKBU (BNU-HKBU UIC)
-
-👨‍💻 One of the co-founders of [@UICHCC](https://uichcc.com) (UIC Homebrew Computer Club)
-
-🔭  I am now focusing on 
-  1. Financial Data Analysis
-  2. "Text-as-data" Analysis 
-  3. Maintenance of UIC-STAT Computing Cluster (USBC), for more info, please check:
-     * [USBC-WIKI](https://yuque.com/usbc/usbc-wiki/)
-     * [@Bayes-Cluster](https://github.com/Bayes-Cluster)
-
-Research Interest:
-- 🚩 Statistical Inference (Bayesian)
-- 🚩 Stochastic Process, Markov-related
-- 🚩 Spatio-Temporal Model and Graph Reprensentation
-
-📫 How to reach me: me#cklau.cc
-📃 For more information: check my [CV](https://terenceliu98.github.io/Docs/CV.pdf)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=TerenceLiu98)](https://github.com/anuraghazra/github-readme-stats) -->
