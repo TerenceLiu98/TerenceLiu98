@@ -1,6 +1,6 @@
 ### 🫡 README
 
-I am Junjie Liu, currently, a PhD student at [Political Science](https://www.tcd.ie/Political_Science/) of [Trinity College Dublin](https://www.tcd.ie). 
+I am Junjie Liu, currently, a PhD student in [Political Science](https://www.tcd.ie/Political_Science/) of [Trinity College Dublin](https://www.tcd.ie). 
 
 🔭 Research Interest: Computational Social Science, Natural Language Processing, Graph-based Model
 
